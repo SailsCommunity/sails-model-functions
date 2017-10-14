@@ -1,0 +1,50 @@
+[
+   {
+      "movie_name":"Kingsman: The Golden Circle",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTBlOWZhZTctOTY0MC00Y2QyLTljMmYtZDkxZDFlMWU4Y2EyXkEyXkFqcGdeQXVyNDg2MjUxNjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":7.2,
+      "release_year":2017,
+      "genre":"Action, Adventure, Comedy",
+      "running_time":141
+   },
+   {
+      "movie_name":"Blade Runner 2049",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":8.5,
+      "release_year":2017,
+      "genre":"Mystery, Sci-Fi, Thriller",
+      "running_time":164
+   },
+   {
+      "movie_name":"It",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BOTE0NWEyNDYtYWI5MC00MWY0LTg1NDctZjAwMjkyMWJiNzk1XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":7.8,
+      "release_year":2017,
+      "genre":"Drama, Horror, Thriller",
+      "running_time":135
+   },
+   {
+      "movie_name":"Spider-Man: Homecoming",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":7.7,
+      "release_year":2017,
+      "genre":"Action, Adventure, Sci-Fi",
+      "running_time":133
+   },
+   {
+      "movie_name":"Wonder Woman",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":7.6,
+      "release_year":2017,
+      "genre":"Action, Adventure, Fantasy",
+      "running_time":141
+   },
+   {
+      "movie_name":"Star Wars: The Last Jedi",
+      "image":"https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "rating":7.6,
+      "release_year":2017,
+      "genre":"Action, Adventure, Fantasy",
+      "running_time":150
+   }
+]
